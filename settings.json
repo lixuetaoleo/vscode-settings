@@ -221,4 +221,13 @@
     "**/CHANGELOG*": true,
     "**/LICENSE*": true,
   },
+  "errorLens.enabledDiagnosticLevels": [
+    "warning",
+    "error"
+  ],
+  "errorLens.excludeBySource": [
+    "cSpell",
+    "Grammarly",
+    "eslint"
+  ],
 }

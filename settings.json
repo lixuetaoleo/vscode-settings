@@ -173,9 +173,7 @@
     "yaml",
     "toml"
   ],
-  "eslint.codeActionsOnSave.rules": null,
   "workbench.colorTheme": "GitHub Dark Default",
-  "editor.foldingImportsByDefault": true,
   "files.trimTrailingWhitespace": true,
   "workbench.commandPalette.experimental.suggestCommands": true,
   "workbench.tree.indent": 10,
@@ -229,5 +227,9 @@
     "cSpell",
     "Grammarly",
     "eslint"
+  ],
+  "dart.flutterSdkPath": "/Users/lixuetao/Developer/flutter",
+  "workbench.settings.applyToAllProfiles": [
+  
   ],
 }
